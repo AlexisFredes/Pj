@@ -1,4 +1,3 @@
-# Titulo: PJ -  Papa Johns
 # Autor: Alexis Fredes
 
 _Esta aplicación fue desarrollada React y Redux. Utilizando la API de Amiibo (https://www.amiiboapi.com/) permite a los usuarios consultar y simular compras de figuras coleccionables de Nintendo._
